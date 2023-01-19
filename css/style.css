@@ -1,0 +1,10 @@
+@media (max-width:500px){
+    nav {
+      background-color:blue;
+    }
+  }
+  @media (min-width:500px){
+    nav {
+      background-color:red;
+    }
+  }
